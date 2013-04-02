@@ -1,4 +1,9 @@
 asdasd
+if(a==b){
+  c=b;
+}else{
+  c=a+b;
+}
 
 werewrewr
 abc
